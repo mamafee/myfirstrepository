@@ -1,4 +1,4 @@
-# Folake instant
+# instant mobile app
 An Android Instant App is a native Android app reachable through a URL with no Google Play Store installation required. A piece of the app containing the selected feature is actually downloaded and installed on the fly.
 
 This allows to use the power of the internet to make Android apps much more reachable and shareable.
